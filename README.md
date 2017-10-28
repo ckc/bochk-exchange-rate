@@ -7,5 +7,5 @@ node app.js
 ```
 
 ## Routes
->   /exchangeRatesHKD
->   /exchangeRatesForCurrency
+1.  /exchangeRatesHKD
+2.  /exchangeRatesForCurrency
