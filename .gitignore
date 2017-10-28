@@ -110,3 +110,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+
+\.idea/
+
+yarn\.lock
